@@ -1,0 +1,4 @@
+activeuserprofiles=Team;centos7;devops
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=swolice
+useridperkey=centos7.Local\=swolice;devops.Local\=swolice;
